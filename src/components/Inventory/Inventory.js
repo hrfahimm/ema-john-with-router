@@ -4,6 +4,7 @@ const Inventory = () => {
 	return (
 		<div>
 			<h2>inventory</h2>
+			<h2>inventory</h2>
 		</div>
 	);
 };
